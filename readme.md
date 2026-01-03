@@ -13,3 +13,7 @@
 ---
 
 # 🔠 Plano de ensino
+
+### 03/01/2026 - [1a aula](https://github.com/FelisbinoJose/Curso-de-JavaScript-com-Node.js/tree/1a-aula)
+
+- Acessando e lendo arquivos
