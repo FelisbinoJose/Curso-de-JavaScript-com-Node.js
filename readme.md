@@ -16,4 +16,8 @@
 
 ### 03/01/2026 - [1a aula](https://github.com/FelisbinoJose/Curso-de-JavaScript-com-Node.js/tree/1a-aula)
 
-- Acessando e lendo arquivos
+- Acessando e lendo arquivos.
+
+### 03/01/2026 - [2a aula](https://github.com/FelisbinoJose/Curso-de-JavaScript-com-Node.js/tree/2a-aula)
+
+- Criando a lógica do projeto.
