@@ -21,3 +21,7 @@
 ### 03/01/2026 - [2a aula](https://github.com/FelisbinoJose/Curso-de-JavaScript-com-Node.js/tree/2a-aula)
 
 - Criando a lógica do projeto.
+
+### 04/01/2026 - [3a aula](https://github.com/FelisbinoJose/Curso-de-JavaScript-com-Node.js/tree/3a-aula)
+
+- Tratamento de erros.
