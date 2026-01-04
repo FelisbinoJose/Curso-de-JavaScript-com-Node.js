@@ -1,0 +1,13 @@
+{
+  "name": "curso-de-javascript-com-node",
+  "version": "1.0.0",
+  "description": "Este projeto utiliza **Node.js** para realizar a **leitura de um arquivo de texto** passado pela linha de comando e, a partir dele, executar uma **análise de palavras por parágrafo**.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
