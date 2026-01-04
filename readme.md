@@ -25,3 +25,7 @@
 ### 04/01/2026 - [3a aula](https://github.com/FelisbinoJose/Curso-de-JavaScript-com-Node.js/tree/3a-aula)
 
 - Tratamento de erros.
+
+### 04/01/2026 - [4a aula](https://github.com/FelisbinoJose/Curso-de-JavaScript-com-Node.js/tree/4a-aula)
+
+- import/export e promessas.
