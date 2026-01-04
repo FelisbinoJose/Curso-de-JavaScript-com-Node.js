@@ -29,3 +29,10 @@
 ### 04/01/2026 - [4a aula](https://github.com/FelisbinoJose/Curso-de-JavaScript-com-Node.js/tree/4a-aula)
 
 - import/export e promessas.
+
+### 04/01/2026 - [5a aula](https://github.com/FelisbinoJose/Curso-de-JavaScript-com-Node.js/tree/5a-aula)
+
+- npm e suas bibliotecas.
+- Projeto concluído.
+
+---
